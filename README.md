@@ -8,4 +8,8 @@ features are:</p>
 <li>Provides User Authentication</li>
 </ol>
 <h3>Screenshots</h3>
-<img src="./Login-Registration.png" alt="Login Registration"/>
+<h5>Login Registration</h5>
+
+![Login-Registration](https://user-images.githubusercontent.com/89256215/142948779-ae222fff-22dc-4639-931e-3363438da5ee.png)
+
+                                    
